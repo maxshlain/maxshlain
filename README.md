@@ -34,9 +34,22 @@ I'm a passionate software engineer who loves building great products and solving
 - Learning about AI and machine learning
 - Contributing to open-source projects
 
-## 💻 Personal Projects
+## 🏢 Enterprise Projects
+- **Secure Cloud Infrastructure**
+  - Implemented FIPS-compliant security standards for cloud workloads
+  - Developed secure deployment pipelines for sensitive environments
+  
+- **Kubernetes Deployment Systems**
+  - Designed and implemented automated K8s deployment solutions
+  - Created robust CI/CD pipelines for containerized applications
+  
+- **Air-Gapped Systems**
+  - Architected innovative solutions for updating K8s workloads in air-gapped environments
+  - Developed secure mechanisms for software delivery in isolated networks
+
+## �� Personal Projects
 - [SuperMelde](https://supermelde.com) - A simple web tool that helps residents fill out Vienna's mandatory residential registration form (Meldezettel)
-- [ZGmund](https://zgmund.com) - A startup project (now closed) that explored AI-assisted mental health support through online group chats
+- [Zgmund](https://zgmund.com) - A startup project (now closed) that explored AI-assisted mental health support through online group chats
 
 <!--
 Feel free to star ⭐ some repositories if you find them interesting!
