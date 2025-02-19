@@ -34,6 +34,10 @@ I'm a passionate software engineer who loves building great products and solving
 - Learning about AI and machine learning
 - Contributing to open-source projects
 
+## 💻 Personal Projects
+- [SuperMelde](https://supermelde.com) - A simple web tool that helps residents fill out Vienna's mandatory residential registration form (Meldezettel)
+- [ZGmund](https://zgmund.com) - A startup project (now closed) that explored AI-assisted mental health support through online group chats
+
 <!--
 Feel free to star ⭐ some repositories if you find them interesting!
 -->
