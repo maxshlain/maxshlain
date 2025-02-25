@@ -53,6 +53,9 @@ I'm a passionate software engineer who loves building great products and solving
   - Led migration initiatives from .NET Framework to .NET Standard/Core
   - Implemented microservices architecture by decomposing monolithic applications
   - Improved code reusability through internal NuGet package componentization
+  - Developed authentication middleware and NuGet package for Keycloak integration, securing both internal and external communications
+  - Containerized .NET services for improved deployment and scalability in cloud environments
+
 
 ## 🎯 Personal Projects
 - [SuperMelde](https://supermelde.com) - A simple web tool that helps residents fill out Vienna's mandatory residential registration form (Meldezettel)
