@@ -44,6 +44,15 @@ I'm a passionate software engineer who loves building great products and solving
   - Developed authentication middleware and NuGet package for Keycloak integration, securing both internal and external communications
   - Containerized .NET services for improved deployment and scalability in cloud environments
 
+- **Techlead & Developer Experience**
+  - Developed internal tooling for enhanced developer productivity:
+    - Created local and remote debugging solutions
+    - Built deployment tools serving dozens of developers using Python and Nice GUI
+  - Led technical knowledge sharing initiatives:
+    - Delivered internal talks on Test-Driven Development (TDD)
+    - Conducted workshops on Clean Code principles
+    - Mentored teams on refactoring best practices
+
 - **Secure Cloud Infrastructure**
   - Implemented FIPS-compliant security standards for cloud workloads
   - Adjusted .NET Core microservices to match FIPS requirements
