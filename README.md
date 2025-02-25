@@ -15,9 +15,6 @@ I'm a passionate software engineer who loves building great products and solving
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maxshlain&show_icons=true&theme=dracula)
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxshlain)
 [![Work GitHub](https://img.shields.io/badge/-Work_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mshlain)
