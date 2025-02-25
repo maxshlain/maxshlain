@@ -33,6 +33,17 @@ I'm a passionate software engineer who loves building great products and solving
 - Contributing to open-source projects
 
 ## 🏢 Enterprise Projects
+
+- **.NET Ecosystem Development**
+  - Developed high-performance ADO layer utilizing NHibernate and Dapper
+  - Created custom testing frameworks extending xUnit capabilities
+  - Built Windows application installers using WIX toolset
+  - Led migration initiatives from .NET Framework to .NET Standard/Core
+  - Implemented microservices architecture by decomposing monolithic applications
+  - Improved code reusability through internal NuGet package componentization
+  - Developed authentication middleware and NuGet package for Keycloak integration, securing both internal and external communications
+  - Containerized .NET services for improved deployment and scalability in cloud environments
+
 - **Secure Cloud Infrastructure**
   - Implemented FIPS-compliant security standards for cloud workloads
   - Adjusted .NET Core microservices to match FIPS requirements
@@ -45,16 +56,6 @@ I'm a passionate software engineer who loves building great products and solving
 - **Air-Gapped Systems**
   - Architected innovative solutions for updating K8s workloads in air-gapped environments
   - Developed secure mechanisms for software delivery in isolated networks
-
-- **.NET Ecosystem Development**
-  - Developed high-performance ADO layer utilizing NHibernate and Dapper
-  - Created custom testing frameworks extending xUnit capabilities
-  - Built Windows application installers using WIX toolset
-  - Led migration initiatives from .NET Framework to .NET Standard/Core
-  - Implemented microservices architecture by decomposing monolithic applications
-  - Improved code reusability through internal NuGet package componentization
-  - Developed authentication middleware and NuGet package for Keycloak integration, securing both internal and external communications
-  - Containerized .NET services for improved deployment and scalability in cloud environments
 
 
 ## 🎯 Personal Projects
